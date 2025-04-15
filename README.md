@@ -8,8 +8,7 @@ If you don't know what revision your Xbox, you can find out with this guide: [ht
 # REPO STRUCTURE:
 All source files for the PCB are contained within the respective folder for each of the 3 official Xbox PCB revions,
 -121 to start with, and -009 and -012 will be added soon.
-Production files to manufacture the PCBs are located in [Releases]
-(https://github.com/Redherring32/Xbox-USB-C-PSU/releases)
+Production files to manufacture the PCBs are located in [Releases](https://github.com/Redherring32/Xbox-USB-C-PSU/releases)
 
 # PCB SPECS:
 * 4 layers
