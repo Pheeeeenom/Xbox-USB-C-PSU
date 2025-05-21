@@ -1,0 +1,138 @@
+(footprint "FDD Connector"
+	(version 20240706)
+	(generator "pcbnew")
+	(generator_version "8.99")
+	(layer "F.Cu")
+	(property "Reference" "J7"
+		(at -2.48 -1.17 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b4b0f217-7c55-4ad8-97c3-402ea6d6edce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Conn_01x04_Pin"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "73dc0ebc-8278-4ec8-ba8a-24573857f3fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Xbox-PMS:FDD Connector"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "930f9063-ee7e-4c85-a192-19c517e67848")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2de0cf26-7d1b-4555-8b35-64ea92fdd7d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x04, script generated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "978559fe-c35e-4df4-b5ec-67c98c391c47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.34 -1.86)
+		(end 8.66 11.64)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "7991a337-7ff3-43de-a1e4-acef6ac90fc6")
+	)
+	(fp_poly
+		(pts
+			(xy 0 -2.58) (xy -1.79 -4.37) (xy 1.75 -4.37) (xy 1.75 -4.33)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "97331754-c035-491a-ba69-01518d9d3cfa")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "97af8ea5-1e17-4782-a8b7-3da81bb37100")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -0.01 -0.01)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "37ed5259-b2cb-429a-b5da-2998335ed8df")
+	)
+	(pad "2" thru_hole circle
+		(at 2.49 -0.01)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d4c8aaf8-fd4e-4f06-9c59-0d629a56b467")
+	)
+	(pad "3" thru_hole circle
+		(at 4.99 -0.01)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d8cd7e1f-4c33-467f-bc14-5e0ae8090f8b")
+	)
+	(pad "4" thru_hole circle
+		(at 7.49 -0.01)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7733de8b-b097-40e5-9a58-8fa4f5d70385")
+	)
+	(embedded_fonts no)
+)
