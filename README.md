@@ -12,11 +12,12 @@ Production files to manufacture the PCBs are located in [Releases](https://githu
 
 # PCB SPECS:
 * 4 layers
-* 130x39.78mm
+* 151.739x39.78mm
 * 1oz copper (all layers), heat issues may result from skimping on this
 * filled vias (VIPPO) for assembly reasons due to via in pad
 
-![Render](https://github.com/user-attachments/assets/fa982e5a-986f-4726-9068-0cfe089436fc)
+![kicad_rvZLV58yR5](https://github.com/user-attachments/assets/5e256504-aa61-479c-9c4e-d7f61f2c38fe)
+
 
 ## LICENSE:
 Licensed under
