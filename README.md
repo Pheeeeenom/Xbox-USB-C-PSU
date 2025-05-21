@@ -2,7 +2,7 @@
 The first ever USB C PSU for the original Xbox
 
 # NOTE:
-This board currently supports Xbox motherboards of PCB revision 121, with the other 2 soon to be supported.
+This board currently supports all 3 Xbox motherboard revisions, but requires a different BOM for 009 and 012 than 121.
 If you don't know what revision your Xbox is, you can find out with this guide: [https://www.herringhardware.com/xboxrevisions](https://www.herringhardware.com/XboxRevisions.html)
 
 # REPO STRUCTURE:
