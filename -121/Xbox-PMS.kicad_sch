@@ -6324,6 +6324,12 @@
 		(uuid "003b26c6-1ad2-4ae4-8d17-583d35956dae")
 	)
 	(junction
+		(at 125.73 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04319bdb-2502-474c-85a9-55f799a275af")
+	)
+	(junction
 		(at 165.1 318.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6528,6 +6534,12 @@
 		(uuid "39c7e117-faeb-433d-af81-abe642ab8abc")
 	)
 	(junction
+		(at 115.57 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a3c678d-6df4-4557-923e-d5847c92a926")
+	)
+	(junction
 		(at 419.1 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6600,6 +6612,12 @@
 		(uuid "48c7e5d6-c1c6-4e6f-b4b6-0376dbb1ccf3")
 	)
 	(junction
+		(at 121.92 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "497794a2-6260-4f3f-bfc8-28bae5fda5e5")
+	)
+	(junction
 		(at 304.8 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6670,12 +6688,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ec1d92a-07b6-49ca-a27d-dc104d9c5be2")
-	)
-	(junction
-		(at 114.3 219.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6176247b-f876-4161-9645-35de174bdd44")
 	)
 	(junction
 		(at 68.58 316.23)
@@ -6858,6 +6870,12 @@
 		(uuid "a1ca3991-e59d-4bc3-a25f-c7c14440913a")
 	)
 	(junction
+		(at 111.76 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a338c4e5-a1e2-402d-87dc-27a4db447aa3")
+	)
+	(junction
 		(at 355.6 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7036,12 +7054,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9fd18ab-25eb-4f7a-95c2-9c2df1fef678")
-	)
-	(junction
-		(at 124.46 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb09daf4-e259-44b8-90d0-3afa0e6ba6c8")
 	)
 	(junction
 		(at 304.8 176.53)
@@ -7708,6 +7720,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 113.03) (xy 125.73 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e9cde2a-b311-4f52-b9bd-15be10e91a97")
+	)
+	(wire
+		(pts
 			(xy 134.62 318.77) (xy 142.24 318.77)
 		)
 		(stroke
@@ -7728,7 +7750,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 219.71) (xy 114.3 219.71)
+			(xy 110.49 219.71) (xy 111.76 219.71)
 		)
 		(stroke
 			(width 0)
@@ -7808,6 +7830,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 226.06) (xy 115.57 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "258e226c-0a37-4027-9531-aaa008052a60")
+	)
+	(wire
+		(pts
 			(xy 68.58 316.23) (xy 73.66 316.23)
 		)
 		(stroke
@@ -7855,6 +7887,16 @@
 			(type default)
 		)
 		(uuid "27b7d4ce-467f-4af3-8b99-3c9ea994b138")
+	)
+	(wire
+		(pts
+			(xy 121.92 118.11) (xy 121.92 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27ce765b-8834-4a21-bf79-4f280d57d2a6")
 	)
 	(wire
 		(pts
@@ -7975,6 +8017,16 @@
 			(type default)
 		)
 		(uuid "2c5c4e27-78cc-4653-9d12-ed2a72a94919")
+	)
+	(wire
+		(pts
+			(xy 115.57 219.71) (xy 115.57 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cbc0c4e-a079-47e7-addb-e71c617656dd")
 	)
 	(wire
 		(pts
@@ -8308,6 +8360,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 118.11) (xy 125.73 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4306ab1a-7f2f-49f8-96c2-8680980cb924")
+	)
+	(wire
+		(pts
 			(xy 271.78 157.48) (xy 280.67 157.48)
 		)
 		(stroke
@@ -8468,16 +8530,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 118.11) (xy 124.46 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b452f9f-b775-4687-8928-4ceb1236db42")
-	)
-	(wire
-		(pts
 			(xy 267.97 40.64) (xy 278.13 40.64)
 		)
 		(stroke
@@ -8578,7 +8630,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 226.06) (xy 114.3 229.87)
+			(xy 111.76 226.06) (xy 111.76 229.87)
 		)
 		(stroke
 			(width 0)
@@ -8708,6 +8760,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 232.41) (xy 115.57 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58df6439-f00a-4b8c-ac51-9bebc165dd2b")
+	)
+	(wire
+		(pts
 			(xy 88.9 341.63) (xy 88.9 344.17)
 		)
 		(stroke
@@ -8728,13 +8790,23 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 111.76) (xy 124.46 111.76)
+			(xy 120.65 111.76) (xy 121.92 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5b46c5ec-4a6a-412b-bd02-3c42d61e61c2")
+	)
+	(wire
+		(pts
+			(xy 115.57 219.71) (xy 118.11 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca0c317-6edd-428a-a2a6-a48d72274598")
 	)
 	(wire
 		(pts
@@ -9178,7 +9250,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 219.71) (xy 124.46 219.71)
+			(xy 123.19 219.71) (xy 124.46 219.71)
 		)
 		(stroke
 			(width 0)
@@ -9208,7 +9280,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 111.76) (xy 124.46 113.03)
+			(xy 121.92 111.76) (xy 121.92 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9398,7 +9470,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 219.71) (xy 114.3 220.98)
+			(xy 111.76 219.71) (xy 111.76 220.98)
 		)
 		(stroke
 			(width 0)
@@ -9505,6 +9577,16 @@
 			(type default)
 		)
 		(uuid "824890ef-a8b7-4a64-85d2-5860142a4bce")
+	)
+	(wire
+		(pts
+			(xy 111.76 219.71) (xy 115.57 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83c8f6a6-5b1d-47b3-ba0f-caa3fa6cb67e")
 	)
 	(wire
 		(pts
@@ -9978,7 +10060,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 111.76) (xy 134.62 111.76)
+			(xy 133.35 111.76) (xy 134.62 111.76)
 		)
 		(stroke
 			(width 0)
@@ -10428,6 +10510,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 124.46) (xy 125.73 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa97aa0-b3ef-469a-8adc-e48f96f1d9a0")
+	)
+	(wire
+		(pts
 			(xy 304.8 176.53) (xy 304.8 177.8)
 		)
 		(stroke
@@ -10495,6 +10587,16 @@
 			(type default)
 		)
 		(uuid "be7cc59a-8b0b-4ea4-9434-8d5a072ecc9c")
+	)
+	(wire
+		(pts
+			(xy 125.73 111.76) (xy 128.27 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf03fec2-4bba-4cc5-9bba-7d671c34607a")
 	)
 	(wire
 		(pts
@@ -11195,6 +11297,16 @@
 			(type default)
 		)
 		(uuid "e731bba9-35cf-4868-95d4-3646eae144ea")
+	)
+	(wire
+		(pts
+			(xy 121.92 111.76) (xy 125.73 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e74ee702-e228-42d1-b288-a68fccc0ede7")
 	)
 	(wire
 		(pts
@@ -12230,6 +12342,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 115.57 234.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "040f4c1d-d642-45a7-9f06-0f0956922193")
+		(property "Reference" "#PWR019"
+			(at 115.57 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 115.57 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bb402d3e-0a07-46f2-9f14-a4e9695602f9")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 114.3 298.45 90)
 		(unit 1)
@@ -12459,6 +12636,84 @@
 			(project "Xbox-PMS"
 				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
 					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 115.57 223.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12f25db3-2642-4b6f-b045-a6b2d4400cef")
+		(property "Reference" "R34"
+			(at 118.11 222.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0"
+			(at 118.11 224.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 115.57 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF2551X"
+			(at 115.57 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e200316-9703-4c1c-9d12-0bdb457d4aa1")
+		)
+		(pin "2"
+			(uuid "21f9ec13-d655-4c04-ae65-65d5b6db98a3")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -14513,6 +14768,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 115.57 229.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "410f3059-4c4f-4767-86a7-ff201527e5dd")
+		(property "Reference" "R33"
+			(at 118.11 228.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6.8K"
+			(at 118.11 231.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 115.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 115.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF2551X"
+			(at 115.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "49bcb634-2da8-43c2-85f2-25afe743ff64")
+		)
+		(pin "2"
+			(uuid "b1f1a00f-17d4-4814-900d-cae3bdf83a38")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 138.43 116.84 180)
 		(unit 1)
@@ -15883,6 +16216,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 125.73 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61af3958-a252-4427-9f63-7447607c5bc5")
+		(property "Reference" "R35"
+			(at 131.572 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "6.8K"
+			(at 129.032 125.222 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 125.73 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 125.73 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF2551X"
+			(at 125.73 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "944ff21d-6133-45d2-a17b-5ee4a0990681")
+		)
+		(pin "2"
+			(uuid "eb2956f6-f3ae-4162-92cf-40f8df43e5a0")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 181.61 212.09 270)
 		(unit 1)
@@ -16238,7 +16648,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 114.3 229.87 0)
+		(at 111.76 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16247,7 +16657,7 @@
 		(fields_autoplaced yes)
 		(uuid "66075fe5-6699-4df0-ad04-cf6517bb5a80")
 		(property "Reference" "#PWR015"
-			(at 114.3 236.22 0)
+			(at 111.76 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16256,7 +16666,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 114.3 234.95 0)
+			(at 111.76 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16264,7 +16674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 229.87 0)
+			(at 111.76 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16273,7 +16683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 229.87 0)
+			(at 111.76 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16282,7 +16692,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 229.87 0)
+			(at 111.76 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17206,6 +17616,83 @@
 			(project "Xbox-PMS"
 				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 125.73 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "821a513d-6ebb-4ecf-8a4c-96bae9f18215")
+		(property "Reference" "R36"
+			(at 130.556 117.856 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0"
+			(at 128.27 116.586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 125.73 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 125.73 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF2551X"
+			(at 125.73 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "794aa86e-92b7-4400-936d-187dfb50b232")
+		)
+		(pin "2"
+			(uuid "c5f97bf5-3263-4a30-ad47-8931b4e764bd")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -19252,7 +19739,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 116.84 219.71 270)
+		(at 120.65 219.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19261,7 +19748,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac1e3f24-5dc5-4c91-aa53-b1387b74800b")
 		(property "Reference" "R17"
-			(at 116.84 214.63 90)
+			(at 120.65 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19269,7 +19756,7 @@
 			)
 		)
 		(property "Value" "18.7K"
-			(at 116.84 217.17 90)
+			(at 120.65 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19277,7 +19764,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 116.84 219.71 0)
+			(at 120.65 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19286,7 +19773,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 219.71 0)
+			(at 120.65 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19295,7 +19782,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 219.71 0)
+			(at 120.65 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19303,7 +19790,7 @@
 			)
 		)
 		(property "MPN" "CRCW040218K7FKEDC"
-			(at 116.84 219.71 0)
+			(at 120.65 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19321,6 +19808,71 @@
 			(project "Xbox-PMS"
 				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 125.73 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad3bb8eb-98b7-4701-8a52-8b17bbb7d55c")
+		(property "Reference" "#PWR021"
+			(at 125.73 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 125.73 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 125.73 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aeea227b-43a8-4aaa-a331-1af7b4d04864")
+		)
+		(instances
+			(project "Xbox-PMS"
+				(path "/8c1bbce5-2a16-4572-817b-59d21d1a6b80"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -19555,7 +20107,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 124.46 115.57 0)
+		(at 121.92 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19563,7 +20115,7 @@
 		(dnp no)
 		(uuid "b4505d62-aebc-45a8-8c8a-7047375c0f19")
 		(property "Reference" "R18"
-			(at 124.968 118.618 0)
+			(at 117.856 118.618 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19571,8 +20123,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.55K"
-			(at 124.968 121.158 0)
+		(property "Value" "4.12K"
+			(at 119.888 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19581,7 +20133,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 124.46 115.57 0)
+			(at 121.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19590,7 +20142,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 115.57 0)
+			(at 121.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19599,7 +20151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 115.57 0)
+			(at 121.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19607,7 +20159,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF2551X"
-			(at 124.46 115.57 0)
+			(at 121.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19920,7 +20472,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 124.46 121.92 0)
+		(at 121.92 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19929,7 +20481,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb8edca4-f8d5-432b-aba2-dacfe1a4140b")
 		(property "Reference" "#PWR016"
-			(at 124.46 128.27 0)
+			(at 121.92 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19938,7 +20490,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 124.46 127 0)
+			(at 121.92 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19946,7 +20498,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 121.92 0)
+			(at 121.92 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19955,7 +20507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 121.92 0)
+			(at 121.92 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19964,7 +20516,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 121.92 0)
+			(at 121.92 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20760,7 +21312,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 127 111.76 270)
+		(at 130.81 111.76 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20769,7 +21321,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca403c1d-5e99-4ea9-bb2d-468322ecdb21")
 		(property "Reference" "R20"
-			(at 127 106.68 90)
+			(at 130.81 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20777,7 +21329,7 @@
 			)
 		)
 		(property "Value" "18.7K"
-			(at 127 109.22 90)
+			(at 130.81 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20785,7 +21337,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 127 111.76 0)
+			(at 130.81 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20794,7 +21346,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 111.76 0)
+			(at 130.81 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20803,7 +21355,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 111.76 0)
+			(at 130.81 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20811,7 +21363,7 @@
 			)
 		)
 		(property "MPN" "CRCW040218K7FKEDC"
-			(at 127 111.76 0)
+			(at 130.81 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23409,16 +23961,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 114.3 223.52 0)
+		(at 111.76 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fe5e5c36-0f2b-4c78-b5b4-e85d73ddbaa4")
 		(property "Reference" "R15"
-			(at 116.84 222.885 0)
+			(at 107.188 225.044 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23426,8 +23977,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.55K"
-			(at 116.84 225.425 0)
+		(property "Value" "4.12K"
+			(at 109.22 226.568 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23436,7 +23987,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 114.3 223.52 0)
+			(at 111.76 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23445,7 +23996,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 223.52 0)
+			(at 111.76 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23454,7 +24005,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 223.52 0)
+			(at 111.76 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23462,7 +24013,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF2551X"
-			(at 114.3 223.52 0)
+			(at 111.76 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
